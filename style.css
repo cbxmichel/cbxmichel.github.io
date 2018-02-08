@@ -3,4 +3,7 @@ body {
   color: cornflowerblue;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+#title { transform: rotate(180deg); }
+
 p { color: white; }
